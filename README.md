@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I’m **Ralph Noel**, an aspiring software engineer with a passion of building app, programs, and high-performance systtems.
+I’m **Ralph Noel**, an aspiring software engineer with a passion of building apps, programs, and high-performance systtems.
 
 I currently study at valencia colleges and aim to earn my associate degree and honors diploma to transfer into UCF's Burnett Honors College to pursue my bachelors in Computer Science.
 
