@@ -1,1 +1,1 @@
-### Hi there! <img src="./assets/wave.gif" alt="wave" width="36" />
+### Hi there! <img src="./assets/wave1 .gif" alt="wave" width="36" />
