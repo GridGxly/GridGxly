@@ -10,6 +10,7 @@ I like to take messy ideas, build something you can click out of it, **watch som
 
 When I'm not coding, I enjoy reading, watching anime, learning new things I'm passionate about, and getting some fresh air.
 
+### **Lets Connect!**
 <a href="https://gridgxly.dev/" target="_blank" rel="noopener noreferrer"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/ralphnoel" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 <a href="mailto:noelralph2006@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Email" src="https://img.shields.io/badge/Email-555555?style=for-the-badge" /></a>
