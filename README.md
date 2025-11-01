@@ -8,7 +8,7 @@ I'm <a href="https://gridgxly.dev/" target="_blank" rel="noopener noreferrer"><b
 I like to turn messy ideas into something real, put it in front of people, and improve it.
 
 
-When I'm not coding, I enjoy reading, watching anime, learning new things about interests I'm passionate about, and getting some fresh air.
+When I'm not coding, I enjoy reading, watching anime, learning new things I'm passionate about, and getting some fresh air.
 
 ### Let's connect!
 <a href="https://gridgxly.dev/" target="_blank" rel="noopener noreferrer"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" /></a>
