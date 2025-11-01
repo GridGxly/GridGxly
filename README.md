@@ -1,4 +1,7 @@
-### Hi there! <img src="./assets/wave1_transparent.gif" alt="waving face emoji" width="36" />
+<h2 style="border:0;margin:0 0 .5rem 0;line-height:1.2">
+Hi There! <img src="./assets/wave1_transparent.gif" alt="waving face emoji" width="36" />
+</h2>
+
 
 
 I'm <a href="https://gridgxly.dev/" target="_blank" rel="noopener noreferrer"><b>Ralph</b></a>, an aspiring software engineer and computer science student @ <a href="https://www.linkedin.com/school/valencia-college/posts/?feedView=all" target="_blank" rel="noopener noreferrer"><b>Valencia College</b></a>.
