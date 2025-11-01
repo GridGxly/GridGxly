@@ -4,8 +4,6 @@ I'm <a href="https://gridgxly.dev/" target="_blank" rel="noopener noreferrer"><b
 
 I take messy ideas, build something you can click, watch someone use it, then make it better.
 
-If you can see me then the test is successful
-
 When I'm not coding, I enjoy reading, watching anime, learning new things I'm passionate about, and getting some fresh air.
 
 #### Let's connect!
