@@ -5,7 +5,7 @@
 I'm <a href="https://gridgxly.dev/" target="_blank" rel="noopener noreferrer"><b>Ralph</b></a>, an aspiring software engineer and computer science student @ <a href="https://www.linkedin.com/school/valencia-college/posts/?feedView=all" target="_blank" rel="noopener noreferrer"><b>Valencia College</b></a>.
 
 
-I like to turn half-baked ideas into something real, put it in front of people, and improve it.
+I like turning random ideas into something real, mostly just to get them in front of people and see how I can improve.
 
 
 When I'm not coding, I enjoy reading, watching anime, learning new things I'm passionate about, and getting some fresh air.
