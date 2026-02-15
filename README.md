@@ -2,7 +2,7 @@
 
 I'm [Ralph](https://rnoel.dev), an aspiring software engineer and computer science student @ [Valencia College](https://valenciacollege.edu) in Orlando, FL. Currently on the transfer path to UCF.
 
-I've built projects at hackathons like [KnightHacks](https://club.knighthacks.org/) and [SwampHacks](https://swamphacks.com), collaborated on full-stack tools with React and Node, and recently submitted my first app playground to the 2026 Swift Student Challenge. My work sits somewhere between frontend creativity and solving real problems. I like both sides equally.
+I've built projects at hackathons like [KnightHacks](https://club.knighthacks.org/) and [SwampHacks](https://swamphacks.com), collaborated on full-stack tools with React and Node. My work sits somewhere between frontend creativity and solving real problems. I like both sides equally.
 
 When I'm not coding, I enjoy reading, watching anime, learning new things I'm passionate about, and getting some fresh air. 
 
