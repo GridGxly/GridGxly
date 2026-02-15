@@ -1,10 +1,10 @@
 ### **Hi There!** <img src="./assets/wave1_transparent.gif" alt="waving face emoji" width="36" />
 
-I'm <a href="https://rnoel.dev/" target="_blank" rel="noopener noreferrer"><b>Ralph</b></a>, an aspiring software engineer and computer science student @ <a href="https://www.linkedin.com/school/valencia-college/posts/?feedView=all" target="_blank" rel="noopener noreferrer"><b>Valencia College</b></a>.
+I'm [Ralph](https://rnoel.dev), an aspiring software engineer and computer science student @ [Valencia College](https://valenciacollege.edu) in Orlando, FL. Currently on the transfer path to UCF.
 
-I like turning random ideas into something real, mostly just to get them in front of people and see how I can make them better.
+I've built projects at hackathons like [KnightHacks](https://club.knighthacks.org/) and [SwampHacks](https://swamphacks.com), collaborated on full-stack tools with React and Node, and recently submitted my first app playground to the 2026 Swift Student Challenge. My work sits somewhere between frontend creativity and solving real problems. I like both sides equally.
 
-When I'm not coding, I enjoy reading, watching anime, learning new things I'm passionate about, and getting some fresh air.
+When I'm not coding, I enjoy reading, watching anime, learning new things I'm passionate about, and getting some fresh air. 
 
 ### Let's connect!
 
